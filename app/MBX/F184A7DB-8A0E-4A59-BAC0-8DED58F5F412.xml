@@ -1,0 +1,70 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F184A7DB-8A0E-4A59-BAC0-8DED58F5F412" platform="MtWeb" defaultW="1030" defaultH="860" measureW="1030" measureH="860" mobileScreenScale="0">
+  <controls controlCount="8">
+    <control controlID="7FA1EB73-D23A-4B35-B35A-53FB970E8BC3" controlTypeID="Image" x="4" y="10" w="1026" h="853" zOrder="0">
+      <URL>DA81AD718EC22CF00C66781686811877.png</URL>
+    </control>
+    <control controlID="8D3E6E90-2CF4-4D77-BBF4-486DA4178820" controlTypeID="Panel" x="20" y="330" w="521" h="400" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="E36DEC60-97D3-4AF8-8741-0901DC080E4B" controlTypeID="Border" x="0" y="0" w="521" h="400" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="30D3B9D9-F6DD-4C25-9536-BA59E6590BA3" controlTypeID="TextArea" x="20" y="330" w="142" h="90" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Additional+fields+for+SR+Forward</text>
+      <textAlign>HaRight</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CE7BBB05-2F10-4A5A-831D-99B58698C76B" controlTypeID="Link" x="368" y="396" w="47" h="19" zOrder="3">
+      <externalURL>https%3A%2F%2Fapi.slack.com%2Fdocs%2Fmessages%2Fbuilder%3Fmsg%3D%257B%2522attachments%2522%253A%255B%257B%2522fallback%2522%253A%2522%255BSR%2520Title%255D%2522%252C%2522color%2522%253A%2522%252336a64f%2522%252C%2522pretext%2522%253A%2522%255BSR%2520Title%255D%2522%252C%2522author_name%2522%253A%2522%255BMessage_Created_by%255D%2522%252C%2522title%2522%253A%2522%255BSRNumber%255D%2522%252C%2522title_link%2522%253A%2522https%253A%252F%252F%2522%252C%2522text%2522%253A%2522%255BProblem%2520Description%255D%2522%252C%2522fields%2522%253A%255B%257B%2522title%2522%253A%2522Severity%2522%252C%2522value%2522%253A%2522%255BSeverity%255D%2522%252C%2522short%2522%253Atrue%257D%252C%257B%2522title%2522%253A%2522Critical%253F%2522%252C%2522value%2522%253A%2522%255BCritical%255D%2522%252C%2522short%2522%253Atrue%257D%252C%257B%2522title%2522%253A%2522Product%2520Description%2522%252C%2522value%2522%253A%2522%255BProduct%2520Description%255D%2522%252C%2522short%2522%253Atrue%257D%252C%257B%2522title%2522%253A%2522Category%2520Name%2522%252C%2522value%2522%253A%2522%255BCategory%255D%2522%252C%2522short%2522%253Atrue%257D%252C%257B%2522title%2522%253A%2522Primary%2520Contact%2522%252C%2522value%2522%253A%2522%255BPrimary%2520Contact%255D%2522%252C%2522short%2522%253Atrue%257D%252C%257B%2522title%2522%253A%2522Account%2520Name%2522%252C%2522value%2522%253A%2522%255BAccount%2520Name%255D%2522%252C%2522short%2522%253Atrue%257D%252C%257B%2522title%2522%253A%2522%2522%252C%2522value%2522%253A%2522%255BForward%2520Message%2520Content%255D%2522%252C%2522short%2522%253Afalse%257D%255D%252C%2522actions%2522%253A%255B%257B%2522name%2522%253A%2522IntenalNote%2522%252C%2522text%2522%253A%2522Reply%2522%252C%2522type%2522%253A%2522button%2522%252C%2522value%2522%253A%2522ORA_SVC_INTERNAL_NOTE%2522%257D%255D%257D%255D%257D</externalURL>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Preview</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3B626639-C49D-4ED7-BA32-CBF8A353B76A" controlTypeID="Icon" x="425" y="356" w="17" h="17" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="53186F2B-E37B-4D82-8D30-06E5B76754CE" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Channel-Forward+Fields">
+          <area shape="0" alt="" ID="{5A05C3D8-6E0C-462C-969B-ED815CE9AFF5}" coords="(0,0,17,17)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62334</iconCode>
+      </icon>
+      <URL>69A4D1E5CE13432C6A4F579026917C6A.svg</URL>
+    </control>
+    <control controlID="2F30A2FE-A7E2-4E06-97D3-8B948FDDFF07" controlTypeID="LinkBar" x="964" y="821" w="37" h="19" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D69CF030-2565-4C32-82F3-8CB2547228B4" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{55954000-5190-4052-BD36-B183155C89CE}" coords="(0,0,37,19)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="8AF2C4D7-B6BB-4755-BBFC-F635888EB64A" controlTypeID="Shape" x="172" y="331" w="243" h="65" zOrder="6">
+      <verticalScrollbarShow>True</verticalScrollbarShow>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Problem+Description%2C+Critical%3F%2C+Product%2C+Category%2C+Contact+</text>
+      <textSize>14</textSize>
+      <textAlign>HaLeft</textAlign>
+      <textVAlign>VaTop</textVAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

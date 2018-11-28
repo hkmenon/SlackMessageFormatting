@@ -1,0 +1,84 @@
+﻿<project version="2.9" name="Forward-Fields-Mockup" ID="AB9BE486-270F-42DD-8DF4-364B8D316E92">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1030,860)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Menu" ID="D69CF030-2565-4C32-82F3-8CB2547228B4" expanded="True" code="IIdCKDsOBh" thumbCode="IIdCKDsOBh" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Edit Channel" ID="F184A7DB-8A0E-4A59-BAC0-8DED58F5F412" expanded="True" code="4Zwu4YtdUy" thumbCode="4Zwu4YtdUy" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="DA81AD718EC22CF00C66781686811877.png"/>
+        <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+      </images>
+    </page>
+    <page name="Edit Channel-Forward Fields" ID="53186F2B-E37B-4D82-8D30-06E5B76754CE" expanded="True" code="82YlLfKHiu" thumbCode="82YlLfKHiu" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8ECE0A5B4A1074FB99799B476D8DFB69.svg"/>
+        <image key="3BBD06F919FD3A29E0530A1DFCC74944.svg"/>
+        <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+        <image key="5BE4181AAEEBBA0A6FDDD439FB1F1DAD.svg"/>
+        <image key="DA81AD718EC22CF00C66781686811877.png"/>
+        <image key="5B42555577E2EDEFD5648F7EACF271B1.svg"/>
+        <image key="0F28DEBDABFDB67BF0E009ED60641C0C.svg"/>
+        <image key="DA81D5238C9D2DC48DB0AB44E34E5A79.svg"/>
+        <image key="F7C850CA9581FA9E2B4BEBEA604A2697.svg"/>
+        <image key="CA7F64AACFA69E19BB5F61FC3DD3A3C0.svg"/>
+        <image key="CA48AC8371E78C722D601B689DB48ADD.svg"/>
+        <image key="FEC2F2365137C3C3038DD9CB5B636744.svg"/>
+      </images>
+    </page>
+    <page name="Edit Channel-More-clicked" ID="9626AE24-017C-4F15-95D3-A1E906690117" expanded="True" code="ga2TTeGOhn" thumbCode="ga2TTeGOhn" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="DA81AD718EC22CF00C66781686811877.png"/>
+      </images>
+    </page>
+    <page name="Create Channel" ID="6B742E74-61A1-45CC-A961-A07A874D12AF" expanded="True" code="DJSMADKJbo" thumbCode="bDm3WMQ4Zn" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="436E89335B3A7786AA07059F504ECA41.png"/>
+        <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+      </images>
+    </page>
+    <page name="Create Channel-Select Forward Fields" ID="A722E7D7-AC94-4341-BAC0-BAD055E896B1" expanded="True" code="fORxkhKp6D" thumbCode="UqLlDXMYgJ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8ECE0A5B4A1074FB99799B476D8DFB69.svg"/>
+        <image key="3BBD06F919FD3A29E0530A1DFCC74944.svg"/>
+        <image key="5BE4181AAEEBBA0A6FDDD439FB1F1DAD.svg"/>
+        <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+        <image key="DA81D5238C9D2DC48DB0AB44E34E5A79.svg"/>
+        <image key="5B42555577E2EDEFD5648F7EACF271B1.svg"/>
+        <image key="0F28DEBDABFDB67BF0E009ED60641C0C.svg"/>
+        <image key="F7C850CA9581FA9E2B4BEBEA604A2697.svg"/>
+        <image key="CA7F64AACFA69E19BB5F61FC3DD3A3C0.svg"/>
+        <image key="CA48AC8371E78C722D601B689DB48ADD.svg"/>
+        <image key="436E89335B3A7786AA07059F504ECA41.png"/>
+        <image key="FEC2F2365137C3C3038DD9CB5B636744.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Edit Channel-Select Forward Fields" ID="A754B36F-C70E-4338-B968-F9E2155782D6" expanded="True" code="nL1M7wGrnF" thumbCode="4inJRMSjUM" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="DA81AD718EC22CF00C66781686811877.png"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="8ECE0A5B4A1074FB99799B476D8DFB69.svg"/>
+    <image key="3BBD06F919FD3A29E0530A1DFCC74944.svg"/>
+    <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+    <image key="5BE4181AAEEBBA0A6FDDD439FB1F1DAD.svg"/>
+    <image key="DA81D5238C9D2DC48DB0AB44E34E5A79.svg"/>
+    <image key="5B42555577E2EDEFD5648F7EACF271B1.svg"/>
+    <image key="F7C850CA9581FA9E2B4BEBEA604A2697.svg"/>
+    <image key="CA7F64AACFA69E19BB5F61FC3DD3A3C0.svg"/>
+    <image key="CA48AC8371E78C722D601B689DB48ADD.svg"/>
+    <image key="436E89335B3A7786AA07059F504ECA41.png"/>
+    <image key="DA81AD718EC22CF00C66781686811877.png"/>
+    <image key="0F28DEBDABFDB67BF0E009ED60641C0C.svg"/>
+    <image key="FEC2F2365137C3C3038DD9CB5B636744.svg"/>
+  </images>
+</project>

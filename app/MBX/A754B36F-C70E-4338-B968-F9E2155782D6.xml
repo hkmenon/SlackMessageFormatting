@@ -1,0 +1,30 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F184A7DB-8A0E-4A59-BAC0-8DED58F5F412" platform="MtWeb" defaultW="1030" defaultH="860" measureW="1030" measureH="860" mobileScreenScale="0">
+  <controls controlCount="4">
+    <control controlID="7FA1EB73-D23A-4B35-B35A-53FB970E8BC3" controlTypeID="Image" x="4" y="10" w="1026" h="853" zOrder="0">
+      <clipShapeType>SbDiamond</clipShapeType>
+      <URL>DA81AD718EC22CF00C66781686811877.png</URL>
+    </control>
+    <control controlID="8D3E6E90-2CF4-4D77-BBF4-486DA4178820" controlTypeID="Panel" x="20" y="330" w="521" h="400" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="E36DEC60-97D3-4AF8-8741-0901DC080E4B" controlTypeID="Border" x="0" y="0" w="521" h="400" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="30D3B9D9-F6DD-4C25-9536-BA59E6590BA3" controlTypeID="TextArea" x="20" y="330" w="142" h="90" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Additional+fields+to+send+with+SR+Forward</text>
+      <textAlign>HaRight</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,51 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F184A7DB-8A0E-4A59-BAC0-8DED58F5F412" platform="MtWeb" defaultW="1030" defaultH="860" measureW="1030" measureH="860" mobileScreenScale="0">
+  <controls controlCount="7">
+    <control controlID="7FA1EB73-D23A-4B35-B35A-53FB970E8BC3" controlTypeID="Image" x="4" y="10" w="1026" h="853" zOrder="0">
+      <URL>DA81AD718EC22CF00C66781686811877.png</URL>
+    </control>
+    <control controlID="8D3E6E90-2CF4-4D77-BBF4-486DA4178820" controlTypeID="Panel" x="20" y="330" w="521" h="400" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="E36DEC60-97D3-4AF8-8741-0901DC080E4B" controlTypeID="Border" x="0" y="0" w="521" h="400" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="30D3B9D9-F6DD-4C25-9536-BA59E6590BA3" controlTypeID="TextArea" x="20" y="330" w="142" h="90" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Additional+fields+to+send+with+SR+Forward</text>
+      <textAlign>HaRight</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3D6567D3-AC0A-43C0-ADB0-69EFA0DBCD16" controlTypeID="Shape" x="172" y="330" w="318" h="72" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Problem+Description%2C+Critical%3F%2C+Product%2C+Category%2C+Contact%2C+Account</text>
+      <textSize>14</textSize>
+      <textAlign>HaLeft</textAlign>
+      <textVAlign>VaTop</textVAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="36111963-C8B0-4064-B43D-CF19FFE74D5E" controlTypeID="HotSpot" x="500" y="66" w="525" h="784" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F184A7DB-8A0E-4A59-BAC0-8DED58F5F412" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Channel">
+          <area shape="0" alt="" ID="{41A516A8-CB4C-42C1-B313-2B450C3FAE49}" coords="(0,0,525,784)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="193371F7-31D7-4919-9A0A-335C85483EDD" controlTypeID="HotSpot" x="10" y="406" w="490" h="444" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F184A7DB-8A0E-4A59-BAC0-8DED58F5F412" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Channel">
+          <area shape="0" alt="" ID="{C8A2940B-6DDA-4359-A266-AE6E99E5E70F}" coords="(0,0,490,444)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,24 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="D69CF030-2565-4C32-82F3-8CB2547228B4" platform="MtWeb" defaultW="1030" defaultH="860" measureW="1030" measureH="860" mobileScreenScale="0">
+  <controls controlCount="1">
+    <control controlID="F6F33978-C4F3-496E-B70B-473D0235DF22" controlTypeID="LinkBar" x="417" y="153" w="185" h="19" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6B742E74-61A1-45CC-A961-A07A874D12AF" linkType="ltPageLink" isApplyIncludePage="False" title="Create+Channel">
+          <area shape="0" alt="" ID="{F7A95F73-13E0-4086-9893-9A726F8DC7D9}" coords="(0,0,93,19)"/>
+        </link>
+        <link targetPageID="F184A7DB-8A0E-4A59-BAC0-8DED58F5F412" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Channel">
+          <area shape="0" alt="" ID="{D581BAE6-E583-4887-B40A-B4F96E9C1EE4}" coords="(105,0,185,19)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Create+Channel%2C+Edit+Channel</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
